@@ -1,4 +1,4 @@
-# turtle_party
+# Turtle Party Fun
 Fun with turtle functions!
 by Bill Gaudin
 
